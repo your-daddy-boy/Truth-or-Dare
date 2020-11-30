@@ -12,7 +12,7 @@ Then use `node index.js` to run the bot Or use `start.bat` file to run bot
 <br><br>
 **🔴Do not forget to set the bot token in config.json🔴**
 <br><br>
-You cand change the bot prefix in `index.js` at line 5
+You can change the bot prefix in `index.js` at line 5
 #
 شما به راحتی میتوانید سوالات ربات رو عوض کنید
 <br>
