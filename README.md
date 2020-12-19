@@ -4,7 +4,7 @@ You Can Easly Change Or Add Questions
 <br>
 **Installation:**
 <br><br>
-First of all you should install <a href="https://nodejs.org/en/" target"_blank">Node.js</a>
+First of all you should install <a href="https://nodejs.org/en/">Node.js</a>
 <br><br>
 Then use `npm install` in your terminal to install the recommended modules
 <br><br>
