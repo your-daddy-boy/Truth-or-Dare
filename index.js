@@ -102,4 +102,4 @@ client.on('message', message => {
 // ======== End ========
 
 
-client.login(procces.env.token);
+client.login(process.env.token);
